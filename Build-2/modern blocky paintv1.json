@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "blocky gun paintball 2",
+"dataUrl": "modern blocky paintv1.data.unityweb",
+"wasmCodeUrl": "modern blocky paintv1.wasm.code.unityweb",
+"wasmFrameworkUrl": "modern blocky paintv1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "modern blocky paintv1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
